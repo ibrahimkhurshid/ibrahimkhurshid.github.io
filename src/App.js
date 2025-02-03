@@ -1,16 +1,17 @@
-import logo from "./logo.svg";
-import "./App.css";
+import React from 'react';
+import './App.module.scss';
+import BaseLayout from "./components/BaseLayout";
+import {BrowserRouter} from "react-router-dom";
 
 function App() {
-  return (
-    <div className="App">
-      <h1>Ibrahim Khurshid</h1>
-      <img src="https://picsum.photos/300"></img>
-      <div>Technology</div>
-      <span>ReactJs</span>
-      <span>NestJs</span>
-    </div>
-  );
+   return (
+      <div>
+         <BrowserRouter>
+            <BaseLayout/>
+         </BrowserRouter>
+      </div>
+   );
 }
+
 
 export default App;
