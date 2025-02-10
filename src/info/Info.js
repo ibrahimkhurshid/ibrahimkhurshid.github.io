@@ -1,4 +1,4 @@
-import self from '../img/self.png'
+import self from '../img/prof_zoomed.png'
 import mock1 from '../img/mock1.png'
 import mock2 from '../img/mock2.png'
 import mock3 from '../img/mock3.png'
@@ -42,11 +42,11 @@ export const info = {
     },
     {
       emoji: '🌎',
-      text: 'based in the US'
+      text: 'based in the PK'
     },
     {
       emoji: '💼',
-      text: 'Systems Engineer at Google'
+      text: 'Software Engineer at Gigalabs'
     },
     {
       emoji: '📧',
@@ -65,12 +65,12 @@ export const info = {
       label: 'instagram'
     },
     {
-      link: 'https://github.com',
+      link: 'https://github.com/ibrahimkhurshid',
       icon: 'fa fa-github',
       label: 'github'
     },
     {
-      link: 'https://linkedin.com',
+      link: 'https://www.linkedin.com/in/ibrahimkhurshid',
       icon: 'fa fa-linkedin',
       label: 'linkedin'
     },
@@ -148,5 +148,49 @@ export const info = {
       source: 'https://github.com/paytonjewell',
       image: mock5
     }
+  ],
+  tech: [
+    {
+      title: 'ReactJs',
+      image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png'
+    },
+    {
+      title: 'NodeJs',
+      image: 'https://nodejs.org/static/logos/nodejsLight.svg'
+    },
+    {
+      title: 'MongoDb',
+      image: 'https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg'
+    },
+    {
+      title: 'ExpressJs',
+      image: ''
+    },
+    {
+      title: 'GraphQL',
+      image: 'https://graphql.org/_next/static/media/logo-wordmark.4eec1155.svg'
+    },
+    {
+      title: 'Docker',
+      image: ''
+    },
+    {
+      title: 'AWS',
+      image: ''
+    },
+    {
+      title: 'Mongoose',
+      image: ''
+    }
+  ],
+  tools:[
+    {
+      title: 'VsCode',
+      image: ''
+    },
+    {
+      title: 'Postman',
+      image: ''
+    },
   ]
 }

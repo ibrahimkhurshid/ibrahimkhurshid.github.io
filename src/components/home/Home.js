@@ -1,6 +1,6 @@
 import React from 'react'
 import Style from './Home.module.scss'
-import me from '../../img/self.png'
+import me from '../../img/prof_zoomed.png'
 import classNames from 'classnames'
 import EmojiBullet from './EmojiBullet'
 import SocialIcon from './SocialIcon'
@@ -22,11 +22,11 @@ export default function Home ({ innerRef }) {
       <Box
         className={classNames(Style.avatar, Style.shadowed)}
         alt={'image of developer'}
-        style={{ background: info.gradient }}
+        style={{ background: info.gradient, filter: 'brightness(1.15)' }}
         component={'img'}
         src={me}
-        width={{ xs: '35vh', md: '40vh' }}
-        height={{ xs: '35vh', md: '40vh' }}
+        width={{ xs: '35vh', md: '42vh' }}
+        height={{ xs: '35vh', md: '41vh' }}
         borderRadius={'50%'}
         p={'0.75rem'}
         mb={{ xs: '1rem', sm: 0 }}
