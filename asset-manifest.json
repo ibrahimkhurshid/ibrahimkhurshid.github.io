@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/devfolio/static/css/main.f81c52cd.css",
-    "main.js": "/devfolio/static/js/main.0ce0d262.js",
-    "static/js/845.96622362.chunk.js": "/devfolio/static/js/845.96622362.chunk.js",
-    "index.html": "/devfolio/index.html",
-    "main.f81c52cd.css.map": "/devfolio/static/css/main.f81c52cd.css.map",
-    "main.0ce0d262.js.map": "/devfolio/static/js/main.0ce0d262.js.map",
-    "845.96622362.chunk.js.map": "/devfolio/static/js/845.96622362.chunk.js.map"
+    "main.css": "/ibrahimkhurshid.github.io/static/css/main.f81c52cd.css",
+    "main.js": "/ibrahimkhurshid.github.io/static/js/main.9fd9e274.js",
+    "static/js/845.96622362.chunk.js": "/ibrahimkhurshid.github.io/static/js/845.96622362.chunk.js",
+    "index.html": "/ibrahimkhurshid.github.io/index.html",
+    "main.f81c52cd.css.map": "/ibrahimkhurshid.github.io/static/css/main.f81c52cd.css.map",
+    "main.9fd9e274.js.map": "/ibrahimkhurshid.github.io/static/js/main.9fd9e274.js.map",
+    "845.96622362.chunk.js.map": "/ibrahimkhurshid.github.io/static/js/845.96622362.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f81c52cd.css",
-    "static/js/main.0ce0d262.js"
+    "static/js/main.9fd9e274.js"
   ]
 }
