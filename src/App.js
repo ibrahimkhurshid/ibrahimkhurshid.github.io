@@ -1,25 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import AboutMe from './about.js'
+import Education from './education.js'
+import Experience from './experience.js'
+import Avatar from './avatar.js'
+// import OpenSourceProjects from './opensource.js'
 
-function App() {
+const Main = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className='container-lg py-6 p-responsive text-center'>
+      <Avatar />
+      <AboutMe />
+      <Experience />
+      <Education />
+      {/* <OpenSourceProjects /> */}
     </div>
-  );
+  )
 }
 
-export default App;
+export default Main
