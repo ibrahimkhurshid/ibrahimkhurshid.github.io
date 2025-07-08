@@ -4,6 +4,7 @@ export const AVATAR_URL = 'https://avatars.githubusercontent.com/u/99968063?v=4'
 export const EMAIL = 'ibrahimkhurshid@hotmail.com'
 export const LINKEDIN_PROFILE = 'https://www.linkedin.com/in/ibrahimkhurshid'
 export const LOCATION = 'Lahore, Pakistan'
+export const CALENDLY_URL = 'https://calendly.com/ibrahimkhurshid'
 
 export const ABOUT_ME_MARKDOWN = `
 Hi, I'm Ibrahim.
