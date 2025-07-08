@@ -16,7 +16,7 @@ const ExperinceItem = ({
         </span>
       </div>
       <div className='timeline-marker'></div>
-      <div className='timeline-content mt-1'>
+      <div className='timeline-content mt-1 pr-3'>
         <p className='timeline-title h3'>
           <img
             src='data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGhlaWdodD0iMzciIGNsYXNzPSJjc3MtZ2hvZWF3LVN1bVVwTG9nbyBlMTZ2bzhhNjAiIHZpZXdCb3g9IjAgMCA2MyA2MyIgd2lkdGg9IjM3Ij48ZyBmaWxsLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoLz48cGF0aCBkPSJNNTguMi41SDUuMUMyLjcuNS43IDIuNS43IDQuOXY1Mi44YzAgMi40IDIgNC40IDQuNCA0LjRoNTMuMWMyLjQgMCA0LjQtMiA0LjQtNC40VjQuOWMwLTIuNS0yLTQuNC00LjQtNC40ek0zOS41IDQ2LjhjLTUuNCA1LjQtMTQgNS42LTE5LjcuN2wtLjEtLjFjLS4zLS4zLS40LS45IDAtMS4zTDM4LjkgMjdjLjQtLjMuOS0uMyAxLjMgMCA1IDUuOCA0LjggMTQuNC0uNyAxOS44em00LTMwLjVMMjQuMyAzNS40Yy0uNC4zLS45LjMtMS4zIDAtNS01LjctNC44LTE0LjMuNi0xOS43IDUuNC01LjQgMTQtNS42IDE5LjctLjcgMCAwIC4xIDAgLjEuMS41LjMuNS45LjEgMS4yeiIgZmlsbC1ydWxlPSJub256ZXJvIi8+PC9nPjwvc3ZnPg=='

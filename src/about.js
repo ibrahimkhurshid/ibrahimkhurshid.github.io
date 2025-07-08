@@ -10,12 +10,7 @@ import {
 const AboutMe = () => {
   return (
     <div>
-      <div
-        className='mb-3 f4 text-gray text-left mx-auto'
-        style={{ maxWidth: 700 }}
-      >
-        {ABOUT_ME_MARKDOWN}
-      </div>
+      <div className='mb-3 f4 text-gray mx-auto px-3'>{ABOUT_ME_MARKDOWN}</div>
 
       <div className='f4 mb-6'>
         <div className='d-md-inline-block mx-3 mb-1 mb-md-0'>
