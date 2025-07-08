@@ -1,4 +1,4 @@
-import { AVATAR_URL, NAME } from './github'
+import { AVATAR_URL, NAME } from './metadata'
 
 const Avatar = () => {
   return (

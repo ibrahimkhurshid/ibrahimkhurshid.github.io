@@ -1,4 +1,4 @@
-import { EDUCATION } from './github'
+import { EDUCATION } from './metadata'
 
 const EducationItem = ({ starting, ending, degree, institute, shortCode }) => {
   return (

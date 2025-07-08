@@ -1,4 +1,4 @@
-import { USERNAME } from './github'
+import { USERNAME } from './metadata'
 
 const OpenSourceProjects = () => {
   return (

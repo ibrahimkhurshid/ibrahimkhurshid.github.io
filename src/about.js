@@ -5,7 +5,7 @@ import {
   LOCATION,
   USERNAME,
   WEBSITE_URL
-} from './github'
+} from './metadata'
 
 const AboutMe = () => {
   return (
