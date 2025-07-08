@@ -1,4 +1,4 @@
-import { EXPERIENCES } from './github'
+import { EXPERIENCES } from './metadata'
 
 const ExperinceItem = ({
   starting,
