@@ -68,7 +68,10 @@ const AboutMe = () => {
           </a>
         </div>
 
-        <div className='d-md-inline-block mx-3 mb-1 mb-md-0'>
+        <div
+          className='d-md-inline-block mx-3 mb-1 mb-md-0'
+          style={{ cursor: 'pointer' }}
+        >
           <svg
             height='20'
             className='octicon octicon-location mr-2 v-align-middle'
