@@ -35,7 +35,7 @@ const ExperinceItem = ({
 
         <p className='f5 text-gray mb-0 mt-2'>
           <span style={{ fontWeight: 900 }}>Technologies:</span>
-          <div className='d-sm-flex flex-wrap mt-2'>
+          <span className='d-sm-flex flex-wrap mt-2'>
             {technologies.map((technology, index) => (
               <span
                 key={index}
@@ -45,7 +45,7 @@ const ExperinceItem = ({
                 {technology}
               </span>
             ))}
-          </div>
+          </span>
         </p>
       </div>
     </li>
