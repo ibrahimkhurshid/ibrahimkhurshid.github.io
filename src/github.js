@@ -21,7 +21,7 @@ export const EXPERIENCES = [
   {
     starting: 'November 2023',
     ending: null,
-    company: 'Gigalabs (Pvt) Ltd',
+    company: 'Gigalabs',
     jobDescription: `Developed scalable full-stack web applications with React.js, Node.js, NestJS, and MongoDB. 
 Designed and implemented REST and GraphQL APIs to deliver flexible and efficient data services. 
 Integrated Ant Design components to build clean, responsive UIs. 
@@ -56,7 +56,7 @@ Collaborated with cross-functional teams in an agile environment to deliver clie
   {
     starting: 'February 2020',
     ending: 'May 2022',
-    company: 'Quid Sol (Pvt) Ltd',
+    company: 'Quid Sol',
     jobDescription: `Handled data preprocessing, feature engineering, and model evaluation for machine learning projects. 
 Developed ML models using Python, Scikit-learn, and OpenCV for computer vision and classification tasks. 
 Built proof-of-concept applications such as a real-time lipstick try-on mirror and a gesture-based Tic Tac Toe game using facial landmark detection and image processing.`,
