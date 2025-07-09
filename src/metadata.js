@@ -39,7 +39,7 @@ Collaborated within agile teams to deliver client features on time while ensurin
       'Ant Design',
       'GitLab CI/CD'
     ],
-    jobTitle: 'Full Stack Developer'
+    jobTitle: 'Software Engineer'
   },
 
   {
