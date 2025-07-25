@@ -85,7 +85,7 @@ Built proof-of-concept applications such as a real-time lipstick try-on mirror a
 Used HTML5, CSS3, and JavaScript to implement responsive layouts and interactive features. 
 Collaborated with senior developers to assist in integrating frontend components with backend services.`,
     technologies: ['HTML5', 'CSS3', 'JavaScript', 'Bootstrap', 'Wordpress'],
-    jobTitle: 'Associate Web Developer'
+    jobTitle: 'Web Developer'
   }
 ]
 
