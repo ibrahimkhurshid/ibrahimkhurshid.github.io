@@ -63,9 +63,9 @@ const AboutMe = () => {
           </a>
         </div>
 
-        <div
-          className='d-md-inline-block mx-3 mb-1 mb-md-0'
-          style={{ cursor: 'pointer' }}
+        <a
+          style={{ textDecoration: 'none' }}
+          href='https://en.wikipedia.org/wiki/Lahore'
         >
           <svg
             height='20'
@@ -83,7 +83,7 @@ const AboutMe = () => {
             ></path>
           </svg>
           {LOCATION}
-        </div>
+        </a>
 
         <div className='d-flex flex-wrap flex-items-start flex-justify-center mt-1 mt-md-3'>
           <div className='mr-3 mb-3'>
