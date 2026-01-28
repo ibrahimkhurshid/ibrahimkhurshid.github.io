@@ -20,8 +20,32 @@ export const WEBSITE_URL = 'https://ibrahimkhurshid.github.io'
 
 export const EXPERIENCES = [
   {
-    starting: 'November 2023',
+    starting: 'January 2026',
     ending: null,
+    company: 'Codebricks',
+    jobDescription: `Maintained and enhanced existing full-stack applications built with React.js, Node.js, NestJS, and MongoDB. 
+Managed frequent deployments and CI/CD pipelines using GitLab, including automated scripts and shell-based tooling. 
+Developed internal TUI (Text-based User Interface) tools to streamline routine operations and monitoring tasks. 
+Collaborated with cross-functional teams to ensure system stability, seamless integration, and feature continuity across multiple client projects.`,
+  technologies: [
+    'React.js',
+    'Node.js',
+    'NestJS',
+    'Sails.js',
+    'GraphQL',
+    'MongoDB',
+    'PostgreSQL',
+    'Ant Design',
+    'GitLab CI/CD',
+    'AI-assisted development',
+    'Shell scripting',
+    'TUI internal tools'
+  ],
+    jobTitle: 'Senior Software Engineer'
+  },
+  {
+    starting: 'November 2023',
+    ending: 'December 2025',
     company: 'Gigalabs',
     jobDescription: `Developed scalable full-stack web applications with React.js, Node.js, NestJS, and MongoDB. 
 Designed and implemented REST and GraphQL APIs to deliver flexible and efficient data services. 
